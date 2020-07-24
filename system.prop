@@ -1,0 +1,8 @@
+ro.secure=0
+ro.adb.secure=0
+ro.debuggable=1
+ro.sf.lcd_density=480
+ro.sys.usb.storage.type=mtp,mass_storage
+persist.sys.isUsbOtgEnabled=true
+ro.meizu.product.model=MX6
+ro.sf.hwrotation=270
